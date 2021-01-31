@@ -468,8 +468,8 @@ function options() {
 	
 	console.log('ılı.lıllılı.ıllı..ılı.lıllılı.ıllı\n');
 	
-	console.log('TESTE'.help);
-	console.log('      MATEUS TEST\n'.help);
+	console.log('𝐒𝐩𝐚𝐦 𝐒𝐦𝐬 𝐯𝟏.𝟎'.help);
+	console.log('      𝐁𝐲 𝐊𝐚𝐤𝐚𝐬𝐡𝐢\n'.help);
 	
 	console.log('ılı.lıllılı.ıllı..ılı.lıllılı.ıllı\n');
 	
