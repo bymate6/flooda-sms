@@ -99,7 +99,7 @@ async function op1(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #Spamrito'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝐊𝐚𝐤𝐚𝐬𝐡𝐢'.help));
 	} else {
 		op1(numero, quantidade);
 	}
@@ -147,7 +147,7 @@ async function op2(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #Spamrito'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝐊𝐚𝐤𝐚𝐬𝐡𝐢'.help));
 	} else {
 		op2(numero, quantidade);
 	}
@@ -196,7 +196,7 @@ async function op3(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #Spamrito'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝐊𝐚𝐤𝐚𝐬𝐡𝐢'.help));
 	} else {
 		op3(numero, quantidade);
 	}
@@ -240,7 +240,7 @@ async function op4(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #Spamrito'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝐊𝐚𝐤𝐚𝐬𝐡𝐢'.help));
 	} else {
 		op4(numero, quantidade);
 	}
@@ -291,7 +291,7 @@ async function op5(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #Spamrito'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝐊𝐚𝐤𝐚𝐬𝐡𝐢'.help));
 	} else {
 		op5(numero, quantidade);
 	}
@@ -455,7 +455,7 @@ async function op6(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #Spamrito'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝐊𝐚𝐤𝐚𝐬𝐡𝐢'.help));
 	} else {
 		op6(numero, quantidade);
 	}
