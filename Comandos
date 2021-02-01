@@ -4,7 +4,7 @@ apt upgrade
 •
 pkg install git
 •
-git clone https://github.com/KiritoOfficial/spamrito
+git clone https://github.com/bymate6/flooda-sms
 •
 cd flooda-sms
 •
